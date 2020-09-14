@@ -1,6 +1,5 @@
 ---
 title: "Titre de l'article"
-#peux-tu me voir ?
 author:
   - name: Prénom Nom
     authsuperscript: 1*
@@ -75,6 +74,7 @@ Library(c("kableExtra", "formatR"))
 
 Ce modèle permet la rédaction d'articles au format Markdown. 
 Il produit directement des articles bien formatés pour l'auto-archivage (dépôt sur HAL par exemple) ou sous d'autres formats, par exemple HTML.
+peux-tu me voir ?
 
 # R Markdown{#markdown}
 
